@@ -1,7 +1,6 @@
 gradio
 pillow
 numpy
-opencv-python
 imageio
 imageio-ffmpeg
 rembg
