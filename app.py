@@ -241,6 +241,7 @@ with gr.Blocks(title="사진 속 물체 춤추기 AI") as demo:
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 10000))
+
     demo.launch(
         server_name="0.0.0.0",
         server_port=port
