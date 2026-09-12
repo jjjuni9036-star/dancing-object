@@ -3,5 +3,3 @@ pillow
 numpy
 imageio
 imageio-ffmpeg
-rembg
-onnxruntime
